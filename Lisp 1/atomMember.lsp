@@ -30,6 +30,5 @@
     )
 )
 
-; (load"C:\\Users\\HP\\Desktop\\Lisp1\\atomMember.lsp")
 ; (checkAtom '1 '(1 2 4 5))
 ; (checkAtom 'a '(1 a 4 5))
