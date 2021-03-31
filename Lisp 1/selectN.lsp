@@ -18,5 +18,4 @@
 	)
 )
 
-; (load"C:\\Users\\HP\\Desktop\\Lisp1\\selectN.lsp")
 ; (selectN '(1 3 7 9) '3)
