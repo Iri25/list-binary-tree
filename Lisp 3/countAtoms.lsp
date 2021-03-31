@@ -18,5 +18,5 @@
         (t (apply '+ (mapcar #' countAtoms l)))
     )
 )
-; (load"C:\\Users\\HP\\Desktop\\L3\\countAtoms.lsp")
+
 ; (countAtoms '(1(3 f(y 6))))
