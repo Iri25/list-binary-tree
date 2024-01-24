@@ -15,16 +15,5 @@ For example the tree below it can be represented in two ways:
 1. (A 2 B 0 C 2 D 0 E 0) (1)
 2. (A (B) (C (D) (E))) (2)
 
-Where the tree is of the form:
-
-  A
-  
- / \
- 
-B    C
-
-    / \
-   
-   D   E
-
-The [Lisp 3](https://github.com/Iri25/lfp-lisp-Iri25/tree/master/Lisp%203) folder contains 1 recursively solved binary tree problem:
+The [Lisp 3](https://github.com/Iri25/lfp-lisp-Iri25/tree/master/Lisp%203) folder contains 1 problem solved with MAP functions:
+- A function that returns the number of atoms in a list, from any level.
