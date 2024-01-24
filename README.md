@@ -1,4 +1,5 @@
-The project contains several problems solved with the help of LISP.
+# list-binary-tree
+The project contains several list and binary tree problems solved using LISP.
 
 The [Lisp 1](https://github.com/Iri25/lfp-lisp-Iri25/tree/master/Lisp%201) folder contains 4 recursively solved problems:
 - A function that selects the nth  element of a list, or NIL, if it does not exist.
