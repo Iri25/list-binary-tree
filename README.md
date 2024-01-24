@@ -1,7 +1,7 @@
 The project contains several problems solved with the help of LISP.
 
 The [Lisp 1](https://github.com/Iri25/lfp-lisp-Iri25/tree/master/Lisp%201) folder contains 4 recursively solved problems:
-- A function that selects the nth element of a list, or NIL, if it does not exist.
+- A function that selects the nth  element of a list, or NIL, if it does not exist.
 - A function that checks if an atom is a member of a not necessarily linear list.
 - A function that builds the list of all sublists of a list. The sublist means either the list itself, or an element on any level, which is the list. Example: (1 2 (3 (4 5) (6 7)) 8 (9 10)) =>( (1 2 (3 (4 5) (6 7)) 8 (9 10)) (3 (4 5) (6 7)) (4 5) (6 7) (9 10) ).
 - A function that transforms a linear list into a set.
@@ -16,10 +16,15 @@ For example the tree below it can be represented in two ways:
 2. (A (B) (C (D) (E))) (2)
 
 Tree
+
   A
+  
  / \
+ 
 B   C
+
    / \
+   
   D   E
 
 The [Lisp 3](https://github.com/Iri25/lfp-lisp-Iri25/tree/master/Lisp%203) folder contains 1 recursively solved binary tree problem:
